@@ -37,6 +37,10 @@ public class Details {
 		String empCity=s.nextLine();
 		System.out.println("Employee City:"+empCity);
 		
+		System.out.println("Enter Employee :");
+		String empC=s.nextLine();
+		System.out.println("Employee City:"+empC);
+		
 		s.close();
 	}
 
